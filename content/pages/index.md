@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Technical Support & Systems Developer | Azure • Copilot • Automation
-    subtitle: He
+    subtitle: ''
     styles:
       self:
         height: auto
