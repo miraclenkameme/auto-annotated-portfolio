@@ -14,7 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Technical Support & Systems Developer | Azure • Copilot • Automation
-    subtitle: ''
+    subtitle: >-
+      Helping businesses build secure, automated, and user-friendly IT
+      solutions. Skilled in Microsoft 365, Azure AI, and technical support —
+      blending cybersecurity discipline with hands-on problem-solving to deliver
+      reliable results.
     styles:
       self:
         height: auto
