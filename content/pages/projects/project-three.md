@@ -5,9 +5,10 @@ colors: colors-a
 date: '2022-01-22'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Performed reconnaissance and exploitation of the Deplorable Arts system,
+  achieving a reverse shell and escalating privileges to root. Applied ethical
+  hacking methodology to identify vulnerabilities, test exploit feasibility, and
+  provide secure coding + patching recommendations.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
