@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Electrobuy – E-Commerce Penetration Test
 colors: colors-a
 date: '2025-07-15'
-client: Awesome client
+client: ''
 description: >-
   Conducted a penetration test on Electrobuy’s vulnerable e-commerce platform.
   Exploited an SQL injection flaw to manipulate item pricing and demonstrated a
