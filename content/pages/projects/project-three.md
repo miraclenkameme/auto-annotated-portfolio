@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Deplorable Arts – Exploitation & Privilege Escalation
 colors: colors-a
-date: '2025-07-22'
+date: '2025-07-20'
 client: ''
 description: >-
   Performed reconnaissance and exploitation of the Deplorable Arts system,
