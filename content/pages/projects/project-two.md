@@ -5,11 +5,11 @@ colors: colors-a
 date: '2025-07-15'
 client: Awesome client
 description: >-
-  Developed a full cybersecurity risk management framework for UtilitySoft
-  Innovations, a simulated utility software provider. Classified systems under
-  FIPS-199, selected baseline controls from NIST 800-53, and created a Plan of
-  Action & Milestones (POA&M) with a continuous monitoring strategy. Delivered a
-  compliance-ready security posture aligned with ISO and CIS best practices.
+  Conducted a penetration test on Electrobuy’s vulnerable e-commerce platform.
+  Exploited an SQL injection flaw to manipulate item pricing and demonstrated a
+  “$0 checkout” exploit. Documented risks using OWASP Top 10 categories and
+  mapped mitigations to CIS Controls v8.1 for secure development lifecycle
+  improvements.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
