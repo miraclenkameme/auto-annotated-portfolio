@@ -12,7 +12,6 @@ description: >-
   improvements. Tools/Frameworks: SQL Injection, OWASP, VirtualBox, Kali Linux
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
