@@ -73,7 +73,7 @@ sections:
       altText: >-
         Professional headshot of Miracle Nkameme (Cybersecurity & Cloud
         Specialist)
-      caption: Caption of the image
+      caption: Miracle Nkameme (Dike) - Cybersecurity & Cloud Specialist
       elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
