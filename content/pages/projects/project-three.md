@@ -2,13 +2,14 @@
 type: ProjectLayout
 title: Deplorable Arts – Exploitation & Privilege Escalation
 colors: colors-a
-date: '2022-01-22'
+date: '2025-07-22'
 client: ''
 description: >-
   Performed reconnaissance and exploitation of the Deplorable Arts system,
   achieving a reverse shell and escalating privileges to root. Applied ethical
   hacking methodology to identify vulnerabilities, test exploit feasibility, and
-  provide secure coding + patching recommendations.
+  provide secure coding + patching recommendations. Tools/Frameworks:
+  Reconnaissance, ExploitDB, Linux Privilege Escalation
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
