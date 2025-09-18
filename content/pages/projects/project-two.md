@@ -19,7 +19,9 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 ---
-Developed a complete cybersecurity risk management framework for UtilitySoft Innovations, a simulated utility provider. Applied FIPS-199 classification and NIST 800-53 controls, built a Plan of Action & Milestones (POA\&M), and established a continuous monitoring strategy. Outcome: Delivered a compliance-ready posture aligned with ISO 27001 and CIS Controls.
+Conducted a penetration test on Electrobuy’s vulnerable e-commerce platform. Discovered and exploited an SQL injection flaw that allowed unauthorized checkout at $0 pricing. Documented the vulnerability using OWASP Top 10 categories, tested the exploit in a controlled VirtualBox/Kali Linux lab, and provided mitigation strategies mapped to CIS Controls v8.1.
+
+Skills Demonstrated: Web Application Security, SQL Injection, Penetration Testing, Vulnerability Assessment, Secure SDLC
 
 
 
