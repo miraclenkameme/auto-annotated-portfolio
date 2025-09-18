@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Deplorable Arts – Exploitation & Privilege Escalation
 colors: colors-a
 date: '2025-07-20'
-client: ''
+client: Academic Project – Mohawk College Cybersecurity Program
 description: >-
   Performed reconnaissance and exploitation of the Deplorable Arts system,
   achieving a reverse shell and escalating privileges to root. Applied ethical
