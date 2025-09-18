@@ -37,6 +37,36 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: >+
+      Hello! I’m Miracle Nkameme (Dike) — a Cybersecurity & Cloud Specialist
+      pivoting into AI workflow automation and technical support.
+
+
+      I am Azure-certified (AZ-900, SC-900) with hands-on experience in:
+
+
+      *   Supporting users with Microsoft 365 tools (SharePoint, Teams,
+      OneDrive, Power Platform).
+
+
+      *   Building automation with Azure AI Foundry, Copilot Studio, and Power
+      Automate.
+
+
+      *   Troubleshooting, customer service, and technical issue resolution.
+
+
+      *   Applying security frameworks (NIST, ISO, CIS) to protect business
+      data.
+
+
+      I combine strong technical support skills with system development and
+      automation to help teams deliver secure, efficient, and user-friendly IT
+      solutions.
+
+
+
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
