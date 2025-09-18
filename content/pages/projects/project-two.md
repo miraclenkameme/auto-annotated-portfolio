@@ -9,7 +9,7 @@ description: >-
   Exploited an SQL injection flaw to manipulate item pricing and demonstrated a
   “$0 checkout” exploit. Documented risks using OWASP Top 10 categories and
   mapped mitigations to CIS Controls v8.1 for secure development lifecycle
-  improvements.
+  improvements. Tools/Frameworks: SQL Injection, OWASP, VirtualBox, Kali Linux
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
