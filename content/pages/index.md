@@ -69,7 +69,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/profile_photo.jpg
       altText: >-
         Professional headshot of Miracle Nkameme (Cybersecurity & Cloud
         Specialist)
