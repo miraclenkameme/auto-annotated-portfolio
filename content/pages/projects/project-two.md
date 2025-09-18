@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Electrobuy – E-Commerce Penetration Test
 colors: colors-a
-date: '2021-12-20'
+date: '2025-07-20'
 client: Awesome client
 description: >-
   Developed a full cybersecurity risk management framework for UtilitySoft
