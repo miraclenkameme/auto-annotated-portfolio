@@ -5,9 +5,11 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Developed a full cybersecurity risk management framework for UtilitySoft
+  Innovations, a simulated utility software provider. Classified systems under
+  FIPS-199, selected baseline controls from NIST 800-53, and created a Plan of
+  Action & Milestones (POA&M) with a continuous monitoring strategy. Delivered a
+  compliance-ready security posture aligned with ISO and CIS best practices.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
