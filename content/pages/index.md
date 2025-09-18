@@ -69,7 +69,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/about.jpg
       altText: >-
         Professional headshot of Miracle Nkameme (Cybersecurity & Cloud
         Specialist)
