@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: Deplorable Arts – Exploitation & Privilege Escalation
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
