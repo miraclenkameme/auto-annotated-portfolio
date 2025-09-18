@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: UtilitySoft Innovations – Risk Management Framework
+title: Electrobuy – E-Commerce Penetration Test
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
