@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Technical Support & System Developer | Azure | Copilot | Automation '
+    title: Technical Support & Systems Developer | Azure • Copilot • Automation
     subtitle: He
     styles:
       self:
