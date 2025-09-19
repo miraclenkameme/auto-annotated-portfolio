@@ -157,7 +157,7 @@ sections:
       - type: Label
         label: Technical Support
       - type: Label
-        label: Swift
+        label: 'Microsoft 365 (Teams, SharePoint, Power Platform)'
   - type: DividerSection
     styles:
       self:
