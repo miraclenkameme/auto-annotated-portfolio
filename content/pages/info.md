@@ -158,6 +158,9 @@ sections:
         label: Technical Support
       - type: Label
         label: 'Microsoft 365 (Teams, SharePoint, Power Platform)'
+      - type: Label
+        label: Netlify & GitHub
+        url: ''
   - type: DividerSection
     styles:
       self:
