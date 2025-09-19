@@ -143,7 +143,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'Cybersecurity Tools & '
+        label: 'Azure (AZ-900, SC-900)'
       - type: Label
         label: React
       - type: Label
