@@ -132,14 +132,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: Instagram
             url: >-
               https://www.instagram.com/mira_nelo?igsh=MXYwMWRmMXd6NHZhaQ%3D%3D&utm_source=qr
