@@ -152,4 +152,11 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+    text: >
+      I'm open to opportunities in Technical Support, Cybersecurity, and
+      Cloud/AI Automation.
+
+
+      If you'd like to discuss a role, project, or collaboration, please reach
+      out by email or through the form below
 ---
