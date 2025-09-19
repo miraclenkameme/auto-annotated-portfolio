@@ -147,7 +147,7 @@ sections:
       - type: Label
         label: Cybersecurity
       - type: Label
-        label: Microsoft Office
+        label: 'Risk Management (NIST, ISO 27001, CIS)'
       - type: Label
         label: Next.js
       - type: Label
