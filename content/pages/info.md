@@ -141,7 +141,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/mira_nelo/'
+            url: ''
         styles:
           self:
             textAlign: left
