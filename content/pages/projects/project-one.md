@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Windows Defender Firewall – Security Lab
 colors: colors-a
 date: '2025-06-30'
-client: Awesome client
+client: ' Cybersecurity Lab Project'
 description: >-
   Tools/Frameworks: Windows Defender Firewall, Rule
   ConfigurationDescription:Configured Windows Defender Firewall to enforce
