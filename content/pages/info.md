@@ -22,7 +22,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/profile_photo.jpg
-      altText: Hero image
+      altText: 'Portrait of Miracle Nkameme '
     styles:
       self:
         height: auto
