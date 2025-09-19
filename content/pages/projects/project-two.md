@@ -13,6 +13,12 @@ description: >-
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
+media:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 Conducted a penetration test on Electrobuy’s vulnerable e-commerce platform. Discovered and exploited an SQL injection flaw that allowed unauthorized checkout at $0 pricing. Documented the vulnerability using OWASP Top 10 categories, tested the exploit in a controlled VirtualBox/Kali Linux lab, and provided mitigation strategies mapped to CIS Controls v8.1.
 
