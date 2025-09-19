@@ -22,7 +22,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/profile_photo.jpg
-      altText: 'Portrait of Miracle Nkameme '
+      altText: Portrait of Miracle Nkameme  - IT Specialist & Cybersecurity Enthusiast
     styles:
       self:
         height: auto
