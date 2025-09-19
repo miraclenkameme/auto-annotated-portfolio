@@ -66,7 +66,11 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
-    subtitle: Technical Support | Web Developer |
+    subtitle: >-
+      Helping businesses build secure, automated, and user-friendly IT
+      solutions. Skilled in Microsoft 365, Azure AI, and technical support —
+      blending cybersecurity discipline with hands-on problem-solving to deliver
+      reliable results.
   - type: DividerSection
     styles:
       self:
