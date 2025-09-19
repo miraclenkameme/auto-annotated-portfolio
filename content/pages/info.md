@@ -23,6 +23,7 @@ sections:
       type: ImageBlock
       url: /images/profile_photo.jpg
       altText: Portrait of Miracle Nkameme  - IT Specialist & Cybersecurity Enthusiast
+      caption: 'Miracle Nkameme - Building secure, innovative IT solutions'
     styles:
       self:
         height: auto
