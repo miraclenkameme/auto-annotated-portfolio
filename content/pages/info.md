@@ -149,7 +149,7 @@ sections:
       - type: Label
         label: 'Risk Management (NIST, ISO 27001, CIS)'
       - type: Label
-        label: Next.js
+        label: Penetration Testing
       - type: Label
         label: Netlify
       - type: Label
