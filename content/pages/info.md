@@ -159,6 +159,9 @@ sections:
       - type: Label
         label: 'Microsoft 365 (Teams, SharePoint, Power Platform)'
       - type: Label
+        label: Networking & Firewalls
+        url: ''
+      - type: Label
         label: Netlify & GitHub
         url: ''
   - type: DividerSection
