@@ -5,9 +5,12 @@ colors: colors-a
 date: '2025-06-30'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Tools/Frameworks: Windows Defender Firewall, Rule
+  ConfigurationDescription:Configured Windows Defender Firewall to enforce
+  network security by blocking ports, restricting traffic, and applying
+  different security profiles. Tested firewall rules against unauthorized
+  connections and documented results as part of a hands-on system hardening
+  exercise.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
