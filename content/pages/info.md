@@ -117,7 +117,8 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: >-
+              https://www.linkedin.com/in/miracle-nkameme-573240107?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
         styles:
           self:
             textAlign: left
