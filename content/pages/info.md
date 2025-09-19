@@ -153,7 +153,7 @@ sections:
       - type: Label
         label: SQL / Databases
       - type: Label
-        label: Pancakes
+        label: Python & PowerShell
       - type: Label
         label: C++
       - type: Label
