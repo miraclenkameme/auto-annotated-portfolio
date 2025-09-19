@@ -72,8 +72,8 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "+1 (437) 220-3521",
-            "phoneAltText": "My phone number",
+            "phoneNumber": "",
+            "phoneAltText": "",
             "email": "miraclenkameme@gmail.com",
             "emailAltText": "My email",
             "address": "",

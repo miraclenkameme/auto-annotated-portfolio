@@ -102,37 +102,10 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Get in Touch \U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -158,22 +131,11 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         self:
           textAlign: center
+      title: Get in Touch
     styles:
       self:
         height: auto
@@ -190,4 +152,11 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+    text: >
+      I'm open to opportunities in Technical Support, Cybersecurity, and
+      Cloud/AI Automation.
+
+
+      If you'd like to discuss a role, project, or collaboration, please reach
+      out by email or through the form below
 ---
