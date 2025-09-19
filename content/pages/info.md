@@ -237,18 +237,17 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2025**
 
-          * ba computer sciense at a semi fancy school
+          *   Cybersecurity Analytics - Mohawk College
 
-          **2014**
+          **2023 - 2024**
 
-          * react certificate somewhere
+          *   Data Analytics - Evergreen College
 
-          **2011**
+          ****
 
-          * my highschool
         styles:
           self:
             textAlign: left
