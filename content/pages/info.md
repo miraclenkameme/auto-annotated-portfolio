@@ -155,7 +155,7 @@ sections:
       - type: Label
         label: Python & PowerShell
       - type: Label
-        label: C++
+        label: Technical Support
       - type: Label
         label: Swift
   - type: DividerSection
