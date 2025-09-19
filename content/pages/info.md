@@ -151,7 +151,7 @@ sections:
       - type: Label
         label: Penetration Testing
       - type: Label
-        label: Netlify
+        label: SQL / Databases
       - type: Label
         label: Pancakes
       - type: Label
