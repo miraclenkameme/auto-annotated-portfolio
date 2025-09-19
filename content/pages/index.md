@@ -135,6 +135,7 @@ sections:
       styles:
         self:
           textAlign: center
+      title: Get in Touch
     styles:
       self:
         height: auto
