@@ -108,14 +108,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: LinkedIn
             url: >-
               https://www.linkedin.com/in/miracle-nkameme-573240107?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
