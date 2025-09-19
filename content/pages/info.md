@@ -14,15 +14,42 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      Hello! I’m Miracle Nkameme (Dike) — a Cybersecurity & Cloud Specialist
+      pivoting into AI workflow automation and technical support.
+
+
+      I am Azure-certified (AZ-900, SC-900) with hands-on experience in:
+
+
+      *   Supporting users with Microsoft 365 tools (SharePoint, Teams,
+      OneDrive, Power Platform).
+
+
+      *   Building automation with Azure AI Foundry, Copilot Studio, and Power
+      Automate.
+
+
+      *   Troubleshooting, customer service, and technical issue resolution.
+
+
+      *   Applying security frameworks (NIST, ISO, CIS) to protect business
+      data.
+
+
+      I combine strong technical support skills with system development and
+      automation to help teams deliver secure, efficient, and user-friendly IT
+      solutions.
+
+
+
+
+
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      url: /images/profile_photo.jpg
+      altText: Portrait of Miracle Nkameme  - IT Specialist & Cybersecurity Enthusiast
+      caption: 'Miracle Nkameme - Building secure, innovative IT solutions'
     styles:
       self:
         height: auto
@@ -39,6 +66,11 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    subtitle: >-
+      Helping businesses build secure, automated, and user-friendly IT
+      solutions. Skilled in Microsoft 365, Azure AI, and technical support —
+      blending cybersecurity discipline with hands-on problem-solving to deliver
+      reliable results.
   - type: DividerSection
     styles:
       self:
@@ -50,45 +82,6 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: DividerSection
     styles:
       self:
@@ -107,40 +100,9 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            url: >-
+              https://www.linkedin.com/in/miracle-nkameme-573240107?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
         styles:
           self:
             textAlign: left
@@ -148,7 +110,8 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: >-
+              https://www.instagram.com/mira_nelo?igsh=MXYwMWRmMXd6NHZhaQ%3D%3D&utm_source=qr
         styles:
           self:
             textAlign: left
@@ -180,21 +143,27 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: 'Azure (AZ-900, SC-900)'
       - type: Label
-        label: React
+        label: Cybersecurity
       - type: Label
-        label: Microsoft Office
+        label: 'Risk Management (NIST, ISO 27001, CIS)'
       - type: Label
-        label: Next.js
+        label: Penetration Testing
       - type: Label
-        label: Netlify
+        label: SQL / Databases
       - type: Label
-        label: Pancakes
+        label: Python & PowerShell
       - type: Label
-        label: C++
+        label: Technical Support
       - type: Label
-        label: Swift
+        label: 'Microsoft 365 (Teams, SharePoint, Power Platform)'
+      - type: Label
+        label: Networking & Firewalls
+        url: ''
+      - type: Label
+        label: Netlify & GitHub
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -211,7 +180,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      miraclenkameme\@gmail.com
   - type: DividerSection
     styles:
       self:
