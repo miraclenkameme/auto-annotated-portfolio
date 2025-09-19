@@ -197,26 +197,41 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: >+
           **Current**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Home Support Worker - Built strong skills in customer service,
+          problem-solving and handling confidential data.
 
-          * fullstack at this startup
 
-          **2015**
+          <!---->
 
-          * senior front-end at this place
+
+          *   Freelance IT Support & Web Projects - Assisted with
+          troubleshooting, Portfolio website builds, and domain setup for small
+          businesses
+
+
+          **2023 - 2025**
+
+
+          *   Technical Support Representative - Acted as a primary point of
+          contact for hardware, software and account issues, Providing Ter 1 & 2
+          technical support in a fast-paced service environment 
+
 
           **2013**
 
-          * intern developer at a big company
+
+          *   intern developer at a big company
+
 
           **2011**
 
-          * flipping burgers
+
+          *   flipping burgers
+
         styles:
           self:
             textAlign: left
