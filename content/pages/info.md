@@ -145,7 +145,7 @@ sections:
       - type: Label
         label: 'Azure (AZ-900, SC-900)'
       - type: Label
-        label: React
+        label: Cybersecurity
       - type: Label
         label: Microsoft Office
       - type: Label
